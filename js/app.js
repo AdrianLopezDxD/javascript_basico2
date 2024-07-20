@@ -3,7 +3,7 @@
             había una vez tres cerditos,
             que estaban programando un codiguito
         */
-            console.log("Holis");
+            console.log("Holaa");
 
             // crear variables
             let universidad = "utiki"; //string
